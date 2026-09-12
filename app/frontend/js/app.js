@@ -11,7 +11,7 @@
 //
 // const API_URL = "https://seu-backend-xxxxx.run.app";
 //
-const API_URL = "http://127.0.0.1:8000";
+const API_URL = "https://calculadora-gd-647090123681.southamerica-east1.run.app";
 
 
 // =========================================================
